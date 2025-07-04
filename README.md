@@ -8,6 +8,7 @@
 ![Database](https://img.shields.io/badge/SQLite-chat_messages.db-lightgrey)
 
 ---
+![Server and Client Mockup](chatmockup.png)
 
 ## 📘 Overview
 
