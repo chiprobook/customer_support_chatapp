@@ -8,8 +8,6 @@
 ![Database](https://img.shields.io/badge/SQLite-chat_messages.db-lightgrey)
 
 ---
-![Server and Client Mockup](chatmockup.png)
-
 ## 📘 Overview
 
 A sleek, full-stack customer support chat system built in Python using Flet for the interactive UI and `websockets` for real-time communication. The server handles client sessions, database persistence, and multi-user support dashboards. The client connects securely using session tokens, supports media messages, and offers a responsive chatroom interface.
